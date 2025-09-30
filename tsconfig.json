@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "outFile": "main.js",
+    "strict": true
+  },
+  "include": ["./**/*.ts"]
+}
